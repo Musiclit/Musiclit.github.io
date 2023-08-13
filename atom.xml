@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>异星纪实</title>
+  
+  <subtitle>Live Here</subtitle>
+  <link href="http://musiclit.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://musiclit.github.io/"/>
+  <updated>2023-08-13T20:59:47.301Z</updated>
+  <id>http://musiclit.github.io/</id>
+  
+  <author>
+    <name>酶知道 Mayish</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>结界下的纽伦堡，对焦失败的银河</title>
+    <link href="http://musiclit.github.io/2023/08/13/1-nuremberg-meteor-friday/"/>
+    <id>http://musiclit.github.io/2023/08/13/1-nuremberg-meteor-friday/</id>
+    <published>2023-08-13T20:00:47.000Z</published>
+    <updated>2023-08-13T20:59:47.301Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/1-20230813.jpg"><br><img src="/images/1-milk-way.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1-20230813.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/1-milk-way.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="http://musiclit.github.io/categories/diary/"/>
+    
+    
+    <category term="Travel" scheme="http://musiclit.github.io/tags/travel/"/>
+    
+    <category term="Photo" scheme="http://musiclit.github.io/tags/photo/"/>
+    
+  </entry>
+  
+</feed>
