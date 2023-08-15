@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>异星纪实 Alien Documentary</title>
+  <title>异星纪实</title>
   
-  <subtitle>Live Here</subtitle>
+  <subtitle>Alien Documentary</subtitle>
   <link href="http://musiclit.github.io/atom.xml" rel="self"/>
   
   <link href="http://musiclit.github.io/"/>
