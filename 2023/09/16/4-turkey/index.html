@@ -247,6 +247,19 @@
 </header>
 
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -786,29 +799,28 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;Current
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/2023/09/16/4-turkey/">
+                <a href="/2023/11/11/5-autumn/">
                     <div class="card-image">
                         
-                        <img src="/images/4-1.JPG" class="responsive-img" alt="Turkey Through">
+                        <img src="/images/5-3.JPG" class="responsive-img" alt="Autumn, and One Year in Munich">
                         
-                        <span class="card-title">Turkey Through</span>
+                        <span class="card-title">Autumn, and One Year in Munich</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            Thoughts inspired by Turkey Travel
+                            The transient autumn with colorful leaves, and the fluctant thoughts with occasional loneliness
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-09-16
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2023-11-11
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
@@ -821,16 +833,15 @@
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/travel/">
-                        <span class="chip bg-color">Travel</span>
-                    </a>
-                    
                     <a href="/tags/photo/">
                         <span class="chip bg-color">Photo</span>
+                    </a>
+                    
+                    <a href="/tags/thoughts/">
+                        <span class="chip bg-color">Thoughts</span>
                     </a>
                     
                 </div>
@@ -1065,7 +1076,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;Total Words:&nbsp;<span
-                        class="white-color">957</span>
+                        class="white-color">1.7k</span>
             
             
             
