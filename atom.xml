@@ -6,7 +6,7 @@
   <link href="http://musiclit.github.io/atom.xml" rel="self"/>
   
   <link href="http://musiclit.github.io/"/>
-  <updated>2023-11-21T22:20:08.255Z</updated>
+  <updated>2023-12-02T18:52:34.212Z</updated>
   <id>http://musiclit.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Winter Sweeps</title>
+    <link href="http://musiclit.github.io/2023/12/02/7-from-autumn-to-winter/"/>
+    <id>http://musiclit.github.io/2023/12/02/7-from-autumn-to-winter/</id>
+    <published>2023-12-02T18:20:05.000Z</published>
+    <updated>2023-12-02T18:52:34.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>Autumn lasts for only one month, then winter starts. The coldest winter I’ve ever seen.  </p><p><img src="/images/7-20.JPG" alt="27 Oct"><br><img src="/images/7-21.JPG" alt="30 Oct"><br><img src="/images/7-3.JPG" alt="Nov 23"><br><img src="/images/7-2.JPG" alt="Nov 23"><br><img src="/images/7-7.JPG" alt="Nov 29"></p><p><img src="/images/7-4.JPG" alt="Nov 26"><br><img src="/images/7-5.JPG" alt="Nov 26"><br><img src="/images/7-6.JPG" alt="Nov 26"></p><p><img src="/images/7-8.JPG" alt="1 Dec"><br><img src="/images/7-9.JPG" alt="1 Dec"><br><img src="/images/7-10.JPG" alt="1 Dec"><br><img src="/images/7-11.JPG" alt="1 Dec"><br><img src="/images/7-12.JPG" alt="1 Dec"><br><img src="/images/7-13.JPG" alt="1 Dec"><br><img src="/images/7-14.JPG" alt="1 Dec"><br><img src="/images/7-15.JPG" alt="1 Dec"><br><img src="/images/7-16.JPG" alt="2 Dec"><br><img src="/images/7-17.JPG" alt="2 Dec"><br><img src="/images/7-18.JPG" alt="2 Dec"><br><img src="/images/7-19.JPG" alt="2 Dec"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Autumn lasts for only one month, then winter starts. The coldest winter I’ve ever seen.  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/7-20.JPG&quot; alt=&quot;27 Oct&quot;</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="http://musiclit.github.io/categories/diary/"/>
+    
+    
+    <category term="Photo" scheme="http://musiclit.github.io/tags/photo/"/>
+    
+    <category term="English" scheme="http://musiclit.github.io/tags/english/"/>
+    
+  </entry>
   
   <entry>
     <title>推荐王孟源的博客</title>
@@ -60,9 +87,9 @@
     <category term="Essay" scheme="http://musiclit.github.io/categories/essay/"/>
     
     
-    <category term="Philosophy" scheme="http://musiclit.github.io/tags/philosophy/"/>
-    
     <category term="Bilingual" scheme="http://musiclit.github.io/tags/bilingual/"/>
+    
+    <category term="Philosophy" scheme="http://musiclit.github.io/tags/philosophy/"/>
     
   </entry>
   
