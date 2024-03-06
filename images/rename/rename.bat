@@ -3,5 +3,5 @@ set a=00
 setlocal EnableDelayedExpansion
 for %%n in (*.JPG) do (
 set /A a+= 1
-ren "%%n" "9-!a!.JPG"
+ren "%%n" "12-!a!.JPG"
 )
