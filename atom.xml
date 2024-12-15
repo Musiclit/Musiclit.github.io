@@ -6,7 +6,7 @@
   <link href="http://musiclit.github.io/atom.xml" rel="self"/>
   
   <link href="http://musiclit.github.io/"/>
-  <updated>2024-08-06T14:15:14.788Z</updated>
+  <updated>2024-12-15T19:40:48.517Z</updated>
   <id>http://musiclit.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3D Grid Cells</title>
+    <link href="http://musiclit.github.io/2024/12/15/17-3dgridcell/"/>
+    <id>http://musiclit.github.io/2024/12/15/17-3dgridcell/</id>
+    <published>2024-12-15T19:33:33.000Z</published>
+    <updated>2024-12-15T19:40:48.517Z</updated>
+    
+    <content type="html"><![CDATA[<p>Ginosar, G., Aljadeff, J., Burak, Y., Sompolinsky, H., Las, L., &amp; Ulanovsky, N. (2021). Locally ordered representation of 3D space in the entorhinal cortex. Nature, 596(7872), 404–409. <a href="https://doi.org/10.1038/s41586-021-03783-x">https://doi.org/10.1038/s41586-021-03783-x</a></p><p>There is no cell in 3D exhibiting the same global orientation as 2d grid cells, but there are cells that (1) have multiple firing field; (2) the firing fields roughly have the same distance; (3) the distance between the firing field is roughly the same. I call these cells 3D grid-like cells. The author didn’t confirm that these cells are the 2D grid cells in bats.</p><p>However, assuming they are 2D grid cells, the observation proposes experimental constrictions on the grid cell mechanism.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Ginosar, G., Aljadeff, J., Burak, Y., Sompolinsky, H., Las, L., &amp;amp; Ulanovsky, N. (2021). Locally ordered representation of 3D space in</summary>
+      
+    
+    
+    
+    <category term="Journal_club" scheme="http://musiclit.github.io/categories/journal-club/"/>
+    
+    
+    <category term="English" scheme="http://musiclit.github.io/tags/english/"/>
+    
+    <category term="Draft" scheme="http://musiclit.github.io/tags/draft/"/>
+    
+  </entry>
   
   <entry>
     <title>Roma</title>
